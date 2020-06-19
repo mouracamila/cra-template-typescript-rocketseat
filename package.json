@@ -1,0 +1,32 @@
+{
+  "name": "cra-template-typescript-rocketseat",
+  "version": "1.0.1",
+  "description": "React template application for Rockeseat ReactJS Applications with Typescript, ESLint and Styled-components",
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mouracamila/cra-template-typescript-rocketseat.git"
+  },
+  "author": "Carmila Moura <camilapaleo(at)gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mouracamila/cra-template-typescript-rocketseat/issues"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript-rocketseat"
+  ],
+  "homepage": "https://github.com/mouracamila/cra-template-typescript-rocketseat#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
