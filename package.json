@@ -1,6 +1,6 @@
 {
   "name": "cra-template-typescript-rocketseat",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React template application for Rockeseat ReactJS Applications with Typescript, ESLint and Styled-components",
   "main": "template.json",
   "scripts": {
